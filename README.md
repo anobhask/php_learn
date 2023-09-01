@@ -2,10 +2,10 @@
 
 Learn php web development
 1. Starting basic usage types learning
-    a. How to create and access variables
-    b. Variable types
-    c. constants
-b. Using Laravel
-    a. Installing Laravel
+    1. How to create and access variables
+    2. Variable types
+    3. constants
+2. Using Laravel
+    1. Installing Laravel
 
 
